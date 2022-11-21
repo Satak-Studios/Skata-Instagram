@@ -4,6 +4,7 @@ All rights are owned by Satak, Sathvik, Katas, Indrakanti Gamers and satak_sk;
 Utility:
 Post multiple photos to instagram using Python
 This program was made possible by Python(Programming Language), Sathvik(Programmer) and Satak(donating his IG account for this bot);
+This v0.1.; This will be updated in future
 ====THANK YOU FOR READING====
 
 
@@ -99,5 +100,5 @@ This program was made possible by Python(Programming Language), Sathvik(Programm
 
 
 
-Hey, You are a genius or a computer expert or person who randmly scrolled;
+Hey, You are a genius or a computer expert or person who randmly scrolled because you found this;
 This was Programmed in Python by Sathvik Indrakanti, 9th A, 9118, KPSI, Naya Raipur
